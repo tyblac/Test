@@ -1,0 +1,9 @@
+c:\users\tblackburn\documents\visual studio 2013\Projects\TestProject\TestProject\bin\Debug\TestProject.exe.config
+c:\users\tblackburn\documents\visual studio 2013\Projects\TestProject\TestProject\bin\Debug\TestProject.exe
+c:\users\tblackburn\documents\visual studio 2013\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+c:\users\tblackburn\documents\visual studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+c:\users\tblackburn\documents\visual studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
+c:\users\tblackburn\documents\visual studio 2013\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\tblackburn\Source\Repos\Test\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\tblackburn\Source\Repos\Test\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\tblackburn\Source\Repos\Test\TestProject\TestProject\obj\Debug\TestProject.pdb
